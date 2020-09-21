@@ -52,5 +52,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Test Valley Brass UK Registered Charity number 1090095
+menu:
+  main:
+    weight: 2
 
 ---
