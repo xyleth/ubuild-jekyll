@@ -30,7 +30,10 @@ page_sections:
       fetes throughout the year.
   col_2:
     headline: ''
-    content: ''
+    content: <img src="/uploads/2020/09/21/fbutton.jpg"><br><strong>Frosty's:</strong><span
+      class="Apple-converted-space"> </span>A beginner band which introduces young
+      learners to the art of playing in an ensemble before "graduating" to the Youth
+      Band (under 19's only).
 - template: 3-column-text
   block: three-column-1
   col_1:
