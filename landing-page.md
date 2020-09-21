@@ -22,7 +22,10 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: ''
-  content: ''
+  content: "<strong>Welcome to Test Valley Brass</strong><br><br>We are an organisation
+    dedicated to the promotion and enjoyment of live brass band music in Andover and
+    the surrounding area.<br><br>We are a family of bands catering for all ages and
+    abilities, and perform at a wide range of concerts and events throughout the year."
 - template: 2-column-text
   block: two-column-1
   col_1:
