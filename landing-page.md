@@ -63,7 +63,7 @@ page_sections:
   content: Test Valley Brass UK Registered Charity number 1090095
 - template: full-width-media-element
   block: media-1
-  image: ''
+  image: "/uploads/2020/09/21/tvbheader-2.jpg"
   caption: ''
 menu:
   main:
