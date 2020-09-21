@@ -43,7 +43,11 @@ page_sections:
       Band who perform as and when a smaller band is required.
   col_2:
     headline: ''
-    content: ''
+    content: <img src="/uploads/2020/09/21/sbbutton.jpg"><br><strong>Senior Band:</strong><span
+      class="Apple-converted-space"> </span>Consisting of the most experienced players
+      within the group, the Senior Band performs at a wide range of engagements from
+      formal concerts, to flower shows, summer fetes, parades, birthday parties and
+      Christmas caroling.
   col_3:
     headline: ''
     content: ''
