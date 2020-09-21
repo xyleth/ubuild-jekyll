@@ -3,22 +3,16 @@ layout: blocks
 title: Landing page
 date: 2020-09-20 23:00:00 +0000
 page_sections:
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2020/09/21/tvbheader.jpg"
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/09/21/tvbheader-1.jpg"
+  caption: ''
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link: ''
+    link_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: ''
@@ -52,6 +46,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Test Valley Brass UK Registered Charity number 1090095
+- template: full-width-media-element
+  block: media-1
+  image: ''
+  caption: ''
 menu:
   main:
     weight: 2
