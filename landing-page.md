@@ -5,7 +5,7 @@ date: 2020-09-20 23:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2020/09/21/tvbheader.jpg"
   image:
     image: ''
     alt_text: ''
