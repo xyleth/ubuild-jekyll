@@ -23,7 +23,11 @@ page_sections:
   block: two-column-1
   col_1:
     headline: ''
-    content: ''
+    content: <img src="/uploads/2020/09/21/ybbutton.jpg"><br><br><strong>Youth Band:</strong><span
+      class="Apple-converted-space"> </span>Open to brass and percussion players under
+      the age of 19, the Youth Band provides young people with a fun and enjoyable
+      environment to play within a brass band, performing at a range of concerts and
+      fetes throughout the year.
   col_2:
     headline: ''
     content: ''
