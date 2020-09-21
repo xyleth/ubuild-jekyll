@@ -50,7 +50,10 @@ page_sections:
       Christmas caroling.
   col_3:
     headline: ''
-    content: ''
+    content: <img src="/uploads/2020/09/21/adb4cc54-20fd-40fb-9c39-fdc4cd98b668.jpg"><br><strong>Academy:</strong><span
+      class="Apple-converted-space"> </span>A beginner band specifically for adults
+      which introduces complete beginners to playing brass and percussion instruments
+      in an ensemble before "graduating" to the Senior Band.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/09/21/full_band.jpg"
