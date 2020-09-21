@@ -38,7 +38,9 @@ page_sections:
   block: three-column-1
   col_1:
     headline: ''
-    content: ''
+    content: <img src="/uploads/2020/09/21/hatsbutton.jpg"><br><strong>HATS (aka Hooters
+      &amp; Tooters / 10 Piece):</strong><br>A small group of players from Senior
+      Band who perform as and when a smaller band is required.
   col_2:
     headline: ''
     content: ''
